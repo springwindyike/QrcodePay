@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/InfosecCrypto_Java1_02_JDK14+.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/commons-logging-1.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/example" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/icbc-api-sdk-cop-io.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/icbc-api-sdk-cop.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/icbc-ca.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/proguard.jar" charset="GBK" />
+  </component>
+</project>
